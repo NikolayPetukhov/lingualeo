@@ -1,0 +1,637 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xeLT0jZkik0WDNoCh9MiZA==
+SHA1-Digest: W5X7pD59ey2OJbLn3GHycUKyW1Y=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ax0HmpMSEmMWcx6HEdErTg==
+SHA1-Digest: 075/GdyEpTX+qa7v+vT6Y67MwSU=
+
+Name: background.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sGW4+SGi5PlVc/xFRMu3TQ==
+SHA1-Digest: R8ZO3ruvPsXIPSoxZgfVzVkpIUI=
+
+Name: bootstrap.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 21yqRdUXN8y+noZUzGD1VQ==
+SHA1-Digest: cZYQ+NlwmVdClaK4EAk008rxmAg=
+
+Name: extension_info.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hWq1zEGg3VACAanbAnuetw==
+SHA1-Digest: IQotHPOK57Wh9r0J38ceSSF67qs=
+
+Name: options.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gB4/BJ5+1hGpbUylDZ1ehA==
+SHA1-Digest: IOEXmfsWNynbnpWajc1pKlcvXco=
+
+Name: popup.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QhdO9c+97MmGaDiJV/BCHg==
+SHA1-Digest: 4JPPygXn5ypda+8hUGkN/oYTsdA=
+
+Name: readme.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GxskDfW9yHkSHtWq2YDJpg==
+SHA1-Digest: pqaekGvgG5Qe1OpbTlnUBJrlags=
+
+Name: icons/button.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: btzZF2XLX/3rWp/UWZMkbA==
+SHA1-Digest: DEOqgaCxycKKpc5AaiPhUmcPtQo=
+
+Name: icons/icon100.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OWNg5ZJBwVxBl3iH5glRag==
+SHA1-Digest: pHUrCLoyQ79RXsmzE3HG+bVAN4c=
+
+Name: icons/icon128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZJnpeKI+zePP9tBXpYsipg==
+SHA1-Digest: n5cJHXs/iIVJ9Rs8A4HC4aC3SXE=
+
+Name: icons/icon32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: itUaBinE4X+/IdnlgI+xRQ==
+SHA1-Digest: a/L/dD5artlp+OrTu8F5uLN/zvk=
+
+Name: icons/icon48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3S/xoHsc0n00HW5XXh3UOQ==
+SHA1-Digest: vg59xksPpggEXjnMPArgaQYscv8=
+
+Name: kango/api.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7xePSy1FvqXB8ggSc1tX1g==
+SHA1-Digest: wWH12wh6h2crpDoyTtEmOha6P+U=
+
+Name: kango/backgroundscript_engine.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Q7dCYlOJy8W/VzS2uTCCSg==
+SHA1-Digest: y+qDE52/VzeQ1eGmlY9IwHmaAE4=
+
+Name: kango/browser.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Yfcdo/fp2HRFaVovyMShKQ==
+SHA1-Digest: bB1+aazuP/1Lk5y+KLb2ROQ5uCE=
+
+Name: kango/chrome_windows.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: loEQ0u7KfbjNSvN6Dd6lqQ==
+SHA1-Digest: WEeIGlgdvh3mVisuO8ACb1jIzjI=
+
+Name: kango/console.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zs+FYuRxV9WCqGfSr2YC3A==
+SHA1-Digest: Ndr3AmjEELNHZfH+M5tkn/QpzDU=
+
+Name: kango/core.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ix+tmKi76Gd6XtEG0bkm8A==
+SHA1-Digest: eKv1Eqhnszlw38H1UBUqD5AbNRU=
+
+Name: kango/extension_info.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: m6xPZMq7wsKuaGjl2Fo9Bw==
+SHA1-Digest: a7ghwuGpgOY53kvsefAyoVa3mhU=
+
+Name: kango/i18n.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kapn/h/MHmWKlad8QPEY8A==
+SHA1-Digest: DLuSpmpZU9E58WTooSmE6ASpoMY=
+
+Name: kango/invoke.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gQ5szHDWt0USjm1SF4znNw==
+SHA1-Digest: iT3OSYzQD4LxCWobTs9om++hK0k=
+
+Name: kango/invoke_async.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iCrq2k63KX2BoH7Rx7l2vg==
+SHA1-Digest: RPa0KonauAkPdt9Q8reAfTr56Pw=
+
+Name: kango/io.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4Jf28cIcha8wq0fSlBuHpw==
+SHA1-Digest: N502h/PvhNqXfLCFM0XE9yoLwWA=
+
+Name: kango/lang.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YkeyXK1KedSNX3pjnntYLw==
+SHA1-Digest: sldszONcHLuR6rFbdzDuQ7Kd2pY=
+
+Name: kango/message_target.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: R5hFO35ub4lcFGA6bxGypQ==
+SHA1-Digest: xpKQlcXTRfzw9mCPTaWyXxKoU7A=
+
+Name: kango/messaging.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XQj504clDBrrfSoEoSh8Rg==
+SHA1-Digest: 3hOWolblpfHKaqRsdJsPy+o+/ZM=
+
+Name: kango/storage.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6CjNVtEG++cHOSI1QlX5/g==
+SHA1-Digest: SlWCGhKDkCoA3McaOeL7TjUS6HU=
+
+Name: kango/timer.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wipCYczd+ozvuGYOaDftrQ==
+SHA1-Digest: wI/HupnCR4MrrpABaF2f9/Aa2xg=
+
+Name: kango-ui/browser_button.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a+6lg+D+MDyRRdzP7AA3lg==
+SHA1-Digest: cUGU6SYkaI3/7jo5/xyL7I442lc=
+
+Name: kango-ui/context_menu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s+jj78cdOtfD6g57IV8/Og==
+SHA1-Digest: Nn8Qk+iT7ZDySemZ9jePkgZAOPU=
+
+Name: kango-ui/kango_api.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mJrbX+4meNCjESmNBDnvOg==
+SHA1-Digest: a1INsTBQg5orWsX/l2Ih94tRHTU=
+
+Name: kango-ui/notifications.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tXkDVSbQ6s/MdaqEGAzqJg==
+SHA1-Digest: b4S6snwm4rHB3w/jlsOjCbS1ebY=
+
+Name: kango-ui/options.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VaJFwLMIdw21XrN+cbQd9Q==
+SHA1-Digest: N500nvUBtTsRcYVn9benhd26dB4=
+
+Name: kango/uninstall.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: boApTjravcOYZoXHvKEn/w==
+SHA1-Digest: Y7wGt1kpi4J1r/9EsLK4jJEaNLY=
+
+Name: kango/userscript_engine.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VlYD4lyxZ9LsENfEGYLNDg==
+SHA1-Digest: GMAPm3m75s4/5mpWSii0yWoU/+s=
+
+Name: kango/utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WLyPUKEpsKVjRPKCNXxzwg==
+SHA1-Digest: iFh4IjyzkCIeAyqnigZGi3TeQhc=
+
+Name: kango/xhr.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n7wKAZBPyxWKYXU34i8VUQ==
+SHA1-Digest: ryWKH0SsaNaCDvev4Vm7WAKsA3k=
+
+Name: lingualeo/css/font-open-sans.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UOuDJpQpulv5ke1uAksc7g==
+SHA1-Digest: MW/WWL4hjHWdi+bJr+n6wUgalj8=
+
+Name: lingualeo/css/options.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1iYjnhblqC+jOuwXWmOJgQ==
+SHA1-Digest: MBszjVi43JSjPCm4q5DKCWg0WEM=
+
+Name: lingualeo/css/popup.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pAR6/8cXVIan1citi/LOfg==
+SHA1-Digest: GQKiCJgDL4AIcHXxfZVf94xOpdE=
+
+Name: lingualeo/images/blank.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PXLNpPyvU1lLPo5BAUN1Iw==
+SHA1-Digest: /r99Dx8eoUj5xAz0z/dUjb5Ola0=
+
+Name: lingualeo/images/close-btn.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LNM6l8ewHc6tRX9Vlyiv3g==
+SHA1-Digest: nGO3ZypCg3n6T3Mp7cat2SHbOTk=
+
+Name: lingualeo/images/english-people.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LlVqKJmiEjkNs2jBKMj3Wg==
+SHA1-Digest: ErtpgWxXprNgoJy/LwcpvIJquds=
+
+Name: lingualeo/images/google.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZBFNqU/Hck0kJQLOIMbWew==
+SHA1-Digest: Mj5eIYz7ImW5tNJ79/TK91pA/qQ=
+
+Name: lingualeo/images/i128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZJnpeKI+zePP9tBXpYsipg==
+SHA1-Digest: n5cJHXs/iIVJ9Rs8A4HC4aC3SXE=
+
+Name: lingualeo/images/i128bw.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MNPhCnxYpxXcq/CKs6JtXQ==
+SHA1-Digest: vrNPz19pq3O/5CIIGmM1sa8OzzQ=
+
+Name: lingualeo/images/i16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: btzZF2XLX/3rWp/UWZMkbA==
+SHA1-Digest: DEOqgaCxycKKpc5AaiPhUmcPtQo=
+
+Name: lingualeo/images/i19.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: etCxPhXo3NpvvSclLPqPLA==
+SHA1-Digest: jKZHrq6LABXSGKcNz7pnNazAhUY=
+
+Name: lingualeo/images/i19bw.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n2myETGCmZ8ekPzE7hTozQ==
+SHA1-Digest: b6OWltcZP6Y6iFkBxcdASmI/hjg=
+
+Name: lingualeo/images/i48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3S/xoHsc0n00HW5XXh3UOQ==
+SHA1-Digest: vg59xksPpggEXjnMPArgaQYscv8=
+
+Name: lingualeo/images/i48bw.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eKDwHizG1uAa2qwlUyhm5w==
+SHA1-Digest: ExewXdS9zN/GyYZbCsgiNwrt69U=
+
+Name: lingualeo/images/logo-paw-2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RDuB2i1UPBgADfevmtR8Pw==
+SHA1-Digest: dE1yDNAuoVIRwhJCh/fp566390M=
+
+Name: lingualeo/images/logo-paw.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: i3bW77yHcYovvQ42TiP1yA==
+SHA1-Digest: CZF6eehzexAsd5cyToL+zlrgez4=
+
+Name: lingualeo/images/logo.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nWR5NjXmOjOODbxLcTq2oQ==
+SHA1-Digest: 8R29yumXNyQkp6G6RrFujQPqC9Y=
+
+Name: lingualeo/images/morning-pic.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oM2zydVr0nD41iiC4QdF9g==
+SHA1-Digest: zZKQ2efJf29hakYSMhV8F3MRnEo=
+
+Name: lingualeo/images/sound.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IMYLrTehIY+SY8inC1YjXA==
+SHA1-Digest: SKzmM5PdrDXpx6dzqil//YODY5w=
+
+Name: lingualeo/images/sprites.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o2yKmtRuxtZt8rfPWdD4pA==
+SHA1-Digest: jfg0IDn353XgxtTZCVYq/6em+GY=
+
+Name: lingualeo/js/config.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /yYPKMKlK7bX3/y8bZgYNQ==
+SHA1-Digest: mKjyQa+vW7ILrergyVsmhaXMO8s=
+
+Name: lingualeo/js/contextmenu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rZKCwkrJOuEVSpfBaXg4aQ==
+SHA1-Digest: eyetGuj5uiOI31kED657GmfFcis=
+
+Name: lingualeo/js/contextmenu_module.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +91n+a/Keww9ptkx2tzsSw==
+SHA1-Digest: UdrWSH1Bg5SLPjOwaG7gDGHhcLk=
+
+Name: lingualeo/js/default_options.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oz2BD8iCP9YHX1dUiuSasg==
+SHA1-Digest: ShddCSLDpFVnaxyoyfUwJCKfN6I=
+
+Name: lingualeo/js/ext.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9NwIKJuudHIquBuqrnh6sg==
+SHA1-Digest: Mvk8RdYkI9F49jjpFX9nB9XhFaU=
+
+Name: lingualeo/js/helper_string.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6ocj2J5dW0lu4l/of7sojw==
+SHA1-Digest: I+STLla84REyPed+Qm22dZwcf+g=
+
+Name: lingualeo/js/helpers.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Hg0gnSF00s75UbKcKAVsRA==
+SHA1-Digest: +f2B5vGs3ghdX6m/Wzu6ugPsFFo=
+
+Name: lingualeo/js/history.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: h7zy0Z3db8SXPTaoX6p9Yw==
+SHA1-Digest: r5oqovlZJDbQ/4JXLDwVB5zxGjs=
+
+Name: lingualeo/js/lingualeo.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XhXNszHWIP+fFAI1ShcpQg==
+SHA1-Digest: Qh+gNrnJiZtsES6UCNN26pucs44=
+
+Name: lingualeo/js/localDictionary.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6aErWlpgf5P1zVdukj+kZw==
+SHA1-Digest: BAHopK6pxo1wanCxoPF/jGv71wY=
+
+Name: lingualeo/js/NodeWordsWrapper.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZzHLT8WoYODJgnb0m+pXyg==
+SHA1-Digest: d1Gcrr3pz9h3ZeI4h5eROMkvx3U=
+
+Name: lingualeo/js/popup.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VI9t3z9+QZlOmMwIinKAvQ==
+SHA1-Digest: IcEReZTsDfaMAo4NlYvkI9lvG2s=
+
+Name: lingualeo/js/server.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rcLRutEvVYpnIWQmZ1CWvQ==
+SHA1-Digest: js96XBHjxe36XqzzBJKDFSO2VvE=
+
+Name: lingualeo/js/tracer.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xgfoGGenvqz1780W6wcXVg==
+SHA1-Digest: mYF2dh1B394KBT+4WYewx+QADLA=
+
+Name: lingualeo/js/content/content.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b+yhu49PzUndZ8u57Ox9AA==
+SHA1-Digest: X+M3+i4Szmh3YiAg/SQIJOxWaSY=
+
+Name: lingualeo/js/content/dialogs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TS3KsVUoOgFenKSScoDGgQ==
+SHA1-Digest: bkWDSQRSPKCxt/yWEZMb9e7OOso=
+
+Name: lingualeo/js/content/enjoyContentControls.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8foxafe0I7nKQAKLJj2AOA==
+SHA1-Digest: firm6g4nSecJKAN3yB0+ZYWrauA=
+
+Name: lingualeo/js/content/lyrics.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TKFUF6zYXx5EKH+CnyRAeA==
+SHA1-Digest: qaEDHhTirtuuj0BbqOD+PBFEc9I=
+
+Name: lingualeo/js/content/simplified.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HlkyS+HFs7hc3ju6DGJJ0A==
+SHA1-Digest: zstvzwFxo0PwNoUKPNNCW2lLmvk=
+
+Name: lingualeo/js/content/wizardDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UksAbrgX5VE/oANBONYmAA==
+SHA1-Digest: /A2Ntp0UCf5CCcRVGu7ItM+LwE8=
+
+Name: lingualeo/js/content/wizardManager.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z8s1VIylKpaXPMNBp2oYew==
+SHA1-Digest: E/CvFKJHbyO/Yb6BBRjFlfzuKk8=
+
+Name: lingualeo/js/content/youtube.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0BbXpjmbpoJpNqMt3hPvCA==
+SHA1-Digest: 6FL9YtVq/3wCGR+E0NYdVb2U/bE=
+
+Name: lingualeo/js/lib/jquery.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5A7CFh/nmTGW8jyKBzRjBg==
+SHA1-Digest: r7kHUuCpDCS39yT6yobF89FdEXg=
+
+Name: lingualeo/js/lib/readability.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: g74CWgzBzg9W8FP15Eq8hg==
+SHA1-Digest: VbI/75kK+D0emvjpv/m6877T5wI=
+
+Name: lingualeo/js/lib/guessLanguage/_languageData.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TUd5XmgNkmUFJfTUf6I4OQ==
+SHA1-Digest: ooCG4niHcsnXNdHo8n09ijOcYvc=
+
+Name: lingualeo/js/lib/guessLanguage/guessLanguage.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /iP8RpSs4sa6yBL2wxEWyQ==
+SHA1-Digest: wLrjbrZdqTxSAL6Z6ocsM+TAsyc=
+
+Name: lingualeo/js/options-page/options.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: exO06MJabZAO+4f32OMxCg==
+SHA1-Digest: sTNiq3dQR3aokyYJDjOU0uSKsgM=
+
+Name: lingualeo/templates/content/commonStyle.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ffse8ZmeJh236NvDR1noAg==
+SHA1-Digest: FRPqRWBVdAnSItkjjac3VEPzZm4=
+
+Name: lingualeo/templates/content/dialog.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JAfmjQ0DYPBNb/kbmEkEaw==
+SHA1-Digest: APjseCGe30qlu5ve6Im5ElBbgac=
+
+Name: lingualeo/templates/content/loginForm.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E0UkVjxYrsfjuMsxiJJtxg==
+SHA1-Digest: Gsy79fwydelVyEKPDUX49Y30x7I=
+
+Name: lingualeo/templates/content/loginFormStyle.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1/tiNRZQSo/do3D7ET0H8g==
+SHA1-Digest: NG44N9H5zBDgVl1+Z66bLEvfvS0=
+
+Name: lingualeo/templates/content/lyricsBrand.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KTXKYTJAlgXU6lQSokphnw==
+SHA1-Digest: UuZssD97iOcPkLKNc+wxsPTw/uw=
+
+Name: lingualeo/templates/content/lyricsBrandStyle.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ic5ThKhUEby/u3U5vcBAdQ==
+SHA1-Digest: D8fvrmL4F0Fd58wswKwk6ErcaeY=
+
+Name: lingualeo/templates/content/simplified.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kDGy/3qqlt4v/kr5DUoAPA==
+SHA1-Digest: hhGk9uGD2K490LG6XHT6vFaXnyU=
+
+Name: lingualeo/templates/content/simplifiedEmpty.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PuxU7ivhIutzov127Wz5hA==
+SHA1-Digest: 8iVzSLpxlKvrnsxXWB8DssmfTzo=
+
+Name: lingualeo/templates/content/simplifiedStyle.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vT6IG8mswwrRYjkYxV/5Dg==
+SHA1-Digest: eQh/HKpzpVIULRXk5ylVOJQWaFE=
+
+Name: lingualeo/templates/content/simplifiedSvgFilter.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZEVfAfaEIXAAe4btWUp1kQ==
+SHA1-Digest: RhmEW0VaLtpTPV5urqPyCnaYjNY=
+
+Name: lingualeo/templates/content/translations.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lmCeVhc1mTI9Yz5QJNvJBQ==
+SHA1-Digest: P/ak54gC8OdZ3bc1/Pgh2YamThw=
+
+Name: lingualeo/templates/content/wizardDialog.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7emOjEuYWDp6a5gi+bIKXQ==
+SHA1-Digest: 4WtVVCvGIH4ekWn6vFF5RFyBB5k=
+
+Name: lingualeo/templates/content/wizardDialogStyle.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OlddIBQJnlYU86CqGax3Yg==
+SHA1-Digest: qvxPA7BW3zdtVw++0DioXmcYth8=
+
+Name: lingualeo/templates/help/enjoyContentControls.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: icyKIpMCq3GLuuzvRXQOAQ==
+SHA1-Digest: OK/becVPotD5USZ6QbzO9+cYlLY=
+
+Name: lingualeo/templates/help/enjoyContentControlsExplain-slide1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 41UmbRwc3KBIzap8iil6UA==
+SHA1-Digest: B6ngNHHlJRFYLWQ6i5/1cG7gdS4=
+
+Name: lingualeo/templates/help/enjoyContentControlsStyle.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dRKn3pXE3sZwcS8IqsjAyg==
+SHA1-Digest: zEimNM+vRo1GKbgNOmGRlEAZTvM=
+
+Name: lingualeo/templates/help/enjoyContentExplain-slide1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GYLmXJJ6glsGn2RdFOtX8g==
+SHA1-Digest: JSQQa6d5pIi+UkA2tQgA2MWDX2Y=
+
+Name: lingualeo/templates/help/enjoyContentExplain-slide2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ATWtCO4x8nZF6ZtLYQmxcw==
+SHA1-Digest: 8FfKVUbjCSO2O3DKcjtbaMe7hys=
+
+Name: lingualeo/templates/help/enjoyContentExplainNoContent-slide1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: noW9bS7c9CqQEPCFBf7UEA==
+SHA1-Digest: MxRSqM3Eh6dR4pdgXtpkhgu7SR8=
+
+Name: lingualeo/templates/help/enjoyContentExplainNoContent-slide2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QroHtNsoeGcRnAu3mJZWqg==
+SHA1-Digest: 0aEywP03maymTj6tLZTqh6x0nFA=
+
+Name: lingualeo/templates/help/enjoyContentWelcome-slide1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VvB4JiTxCFnJTD00CeTaWQ==
+SHA1-Digest: aUzMw4ouBycH7/sYEvU4LQUz8KY=
+
+Name: lingualeo/templates/help/enjoyContentWelcome-slide2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r2TG3nLeMWRB0Uzz77jLbA==
+SHA1-Digest: jiJHpBLG5oxh/b0A3+CmpshHaMI=
+
+Name: lingualeo/templates/help/localDictionaryLimit-slide1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ExHcCYbAap3sMz8MFVnoEQ==
+SHA1-Digest: P0L2zJcMFKcTzdiNkWhMA6X3YdI=
+
+Name: lingualeo/templates/help/meatballs-slide1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B6UnhzaEhxKZnhzNv86eIw==
+SHA1-Digest: QCdVe4RqUw4r3iz00u4MGp+aGNs=
+
+Name: lingualeo/templates/help/meatballs-slide2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sUItNbsXATqXtWTUeHu70Q==
+SHA1-Digest: 6QJByoldsJYV0VcHoZdY7LXyT7M=
+
+Name: lingualeo/templates/help/vkLyrics-slide1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KwNQ4omgiaomIBerHI+Sew==
+SHA1-Digest: n4U8A8SYSiw+hGS88dxa6URuqp4=
+
+Name: lingualeo/templates/help/youtubeExport-slide1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z/0EuiaTvRobZJn7SMZhcA==
+SHA1-Digest: LiR823sA5ZLYbsgFUxCvQNflR5Y=
+
+Name: lingualeo/templates/options/content.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4rWPIcIhTaFDjoTjou1RbQ==
+SHA1-Digest: UaVuQaI/pHk8vuKuG06vIXBySp4=
+
+Name: lingualeo/templates/options/custom-checkbox.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bpCvYy5NK7KhWWrl5sgi8A==
+SHA1-Digest: D70TnlKCcfF6xei1B72HT8oFtJI=
+
+Name: lingualeo/templates/popup/dictionaries.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3R+hACmCRYKJrFGVTQZTXQ==
+SHA1-Digest: g8eBsOI5JOU7e0i7rpfEN8hJjVI=
+
+Name: lingualeo/templates/popup/historyItem.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x2SMf8i+MeGWMsmWVSgZ+w==
+SHA1-Digest: oq6n/HmYXdkhYgkBtvq5yM66dS0=
+
+Name: lingualeo/templates/popup/historyList.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B2zUesDskYMWUX//7CM21w==
+SHA1-Digest: CAts8B9op1xL9x11M9bxSXuY8g4=
+
+Name: lingualeo/templates/popup/noTranslations.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7evlR/uE8NEm/6BR8YEwXg==
+SHA1-Digest: HZdIeTe4hjU1xe5lci74RNNp1+s=
+
+Name: lingualeo/templates/popup/translations.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0BHVC7rFRKKq2vOnioCfdA==
+SHA1-Digest: RXsJPNQbS/fhbfSKoPoW1q7b+BA=
+
+Name: lingualeo/templates/popup/translationsError.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DOxRGbvnV7GVgfnr1woMkw==
+SHA1-Digest: eDfG+kFFhvpAc+4Zc1052CtK/Hw=
+
+Name: lingualeo/templates/popup/translationsFromGoogle.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tZ5IH9WPoH/Jwi8iy6t/Jw==
+SHA1-Digest: +oSSkCNwHe+o3G8t4AUmG06eDhg=
+
+Name: locales/en.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jIyqoq/cU8CFoz3gviD/Vw==
+SHA1-Digest: wO+/ltaepkCG+Na1IMfkzwtqENA=
+
+Name: locales/pt.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HELFxcHlpq2OhgTM6qW5Kw==
+SHA1-Digest: Qz8KFQU+V7Nvj8KAlT8X5Lh6j5Q=
+
+Name: locales/pt_br.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HELFxcHlpq2OhgTM6qW5Kw==
+SHA1-Digest: Qz8KFQU+V7Nvj8KAlT8X5Lh6j5Q=
+
+Name: locales/ru.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MpQU7DmTO1xSMyBBD4Uezg==
+SHA1-Digest: RR08Baa4df3aLWE9QbRiZsiBt5o=
+
+Name: locales/tr.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4Jzn0zxME3Jm3fDcO3PplA==
+SHA1-Digest: bxYFGeeWmp7zzG9iL9LAg3EbzBA=
+
+Name: license.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: txMfVqXdMh7L6TUSgrFdMw==
+SHA1-Digest: rPVKvsTL2WESKulaCsH6owRZIwU=
+

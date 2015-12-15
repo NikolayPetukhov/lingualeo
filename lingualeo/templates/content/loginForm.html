@@ -1,0 +1,37 @@
+<form id="lleo_loginForm" action="" method="post" autocomplete="off" class="lleo_show-animation">
+
+    <div id="loader" class="lleo_loader">
+    	<div class="lleo_line"></div>
+        <div class="lleo_break lleo_dot1"></div>
+        <div class="lleo_break lleo_dot2"></div>
+        <div class="lleo_break lleo_dot3"></div>
+    </div>
+
+    <h4>{loginDialogCapt}</h4>
+    <i class="icon-paw"></i>
+    <a href="#" class="leo-auth-close" title="{dlgCloseHint}" id="lleo_loginClose"><i class="icon-close"></i></a>
+    <fieldset>
+        <dl>
+            <dt>
+                <label for="lleo_loginUsername">{loginDialogEmail}</label>
+            </dt>
+            <dd>
+                <input type="email" name="ll_login_username" id="lleo_loginUsername" class="leo-auth-input" autocomplete="off" tabindex="1" />
+                <p id="lleo_loginErrorList1"></p>
+            </dd>
+        </dl>
+        <dl>
+            <dt>
+                <label for="lleo_loginPassword">{loginDialogPass}</label>
+                <a href="#" class="leo-auth-forgot-pass" id="lleo_loginForgotPass">{loginDialogForgot}</a>
+            </dt>
+            <dd>
+                <input type="password" name="ll_login_pass" id="lleo_loginPassword" class="leo-auth-input" autocomplete="off" tabindex="2"/>
+            </dd>
+        </dl>
+    </fieldset>
+    <div class="lleo_controls">
+        <input type="button" id="lleo_loginCreateAccount" class="lleo_btn lleo_btn_right" value="{loginDialogSignUp}"/>
+        <input type="submit" id="lleo_loginButton" name="ll_login_button" class="lleo_btn lleo_btn-primary" value="{loginDialogEnter}" tabindex="3"/>
+    </div>
+</form>

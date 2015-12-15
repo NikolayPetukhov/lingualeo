@@ -1,0 +1,53 @@
+<?xml version="1.0" ?><RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+    <Description about="urn:mozilla:install-manifest">
+        <em:id>{DD7B8D8D-C0B5-4122-9652-4FCB1E788CD8}</em:id>
+        <em:name>LinguaLeo English Translator</em:name>
+        <em:version>2.0.3.1</em:version>
+        <em:targetApplication>
+            <Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:minVersion>17.0</em:minVersion>
+                <em:maxVersion>36.*</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+        <em:bootstrap>true</em:bootstrap>
+        
+        <em:creator>LinguaLeo</em:creator>
+        <em:homepageURL>http://lingualeo.com/</em:homepageURL>
+        <em:iconURL>chrome://kango-dd7b8d8d-c0b5-4122-9652-4fcb1e788cd8/content/icons/icon32.png</em:iconURL>
+        <em:optionsURL>chrome://kango-dd7b8d8d-c0b5-4122-9652-4fcb1e788cd8/content/options.html</em:optionsURL>
+        <em:optionsType>3</em:optionsType>
+        
+        <em:type>2</em:type>
+    <em:localized>
+                            <Description>
+                                <em:locale>en</em:locale>
+                                <em:name>LinguaLeo English Translator</em:name>
+                                <em:description>Translate words &amp; phrases on web pages. Replenish your personal dictionary. Learn English with millions of people at LinguaLeo.com!</em:description>
+                            </Description>
+                        </em:localized><em:localized>
+                            <Description>
+                                <em:locale>pt</em:locale>
+                                <em:name>Tradutor de Inglês LinguaLeo</em:name>
+                                <em:description>Traduza palavras &amp; frases. Reabasteça seu dicionário pessoal. Aprenda Inglês com milhões de pessoas no LinguaLeo.com.</em:description>
+                            </Description>
+                        </em:localized><em:localized>
+                            <Description>
+                                <em:locale>pt_br</em:locale>
+                                <em:name>Tradutor de Inglês LinguaLeo</em:name>
+                                <em:description>Traduza palavras &amp; frases. Reabasteça seu dicionário pessoal. Aprenda Inglês com milhões de pessoas no LinguaLeo.com.</em:description>
+                            </Description>
+                        </em:localized><em:localized>
+                            <Description>
+                                <em:locale>ru</em:locale>
+                                <em:name>LinguaLeo English Translator</em:name>
+                                <em:description>Переводите слова и фразы на сайтах. Пополняйте личный словарь. Учите английский на LinguaLeo.com!</em:description>
+                            </Description>
+                        </em:localized><em:localized>
+                            <Description>
+                                <em:locale>tr</em:locale>
+                                <em:name>LinguaLeo Çeviri</em:name>
+                                <em:description>Web sitelerindeki kelimeleri tercüme et. Kişisel sözlüğünü oluştur. LinguaLeo.com'daki milyonlarca kişiyle birlikte İngilizce öğren!</em:description>
+                            </Description>
+                        </em:localized></Description>
+</RDF>

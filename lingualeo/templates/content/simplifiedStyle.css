@@ -1,0 +1,421 @@
+#lleo_simplifiedLayer,
+#lleo_simplifiedLayer * {
+    color: #000 !important;
+    font: normal 16px/27px Arial, Helvetica, sans-serif !important;
+
+    margin: 0 !important;
+	padding: 0 !important;
+	background: none !important;
+	border: none 0 !important;
+	position: static !important;
+	vertical-align: baseline !important;
+	overflow: visible !important;
+	width: auto !important;
+	height: auto !important;
+    max-width: none !important;
+    max-height: none !important;
+	float: none !important;
+	visibility: visible !important;
+	text-align: left !important;
+    text-transform: none !important;
+	border-collapse: separate !important;
+	border-spacing: 2px !important;
+    box-sizing: content-box !important;
+    box-shadow: none !important;
+    opacity: 1 !important;
+    text-shadow: none !important;
+    letter-spacing: normal !important;
+    -webkit-filter: none !important;
+    -moz-filter: none !important;
+    filter: none !important;
+}
+
+#lleo_simplifiedLayer #lleo_enjoyContentFrame {
+    position: absolute !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 1px !important;
+    height: 1px !important;
+    border: none !important;
+    opacity: 0.01 !important;
+}
+
+#lleo_simplifiedDialog {
+    color: #000 !important;
+    background: #fafafa !important;
+    margin: auto !important;
+    position: fixed !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    left: 50% !important;
+    border-left: solid 8px #f7c875 !important;
+    box-shadow: 5px 16px 32px rgba(0,0,0,0.5) !important;
+    opacity: 0 !important;
+    overflow: hidden !important;
+    z-index: 999999993 !important;
+    -webkit-transform: scale(0.7,0.7) !important;
+    -moz-transform: scale(0.7,0.7) !important;
+    -ms-transform: scale(0.7,0.7) !important;
+    -o-transform: scale(0.7,0.7) !important;
+    transform: scale(0.7,0.7) !important;
+}
+
+    .lleo_simplifiedShow #lleo_simplifiedDialog {
+        opacity: 1 !important;
+        -webkit-transform: scale(1,1) !important;
+        -moz-transform: scale(1,1) !important;
+        -ms-transform: scale(1,1) !important;
+        -o-transform: scale(1,1) !important;
+        transform: scale(1,1) !important;
+        -webkit-transition: all 0.6s !important;
+        -moz-transition: all 0.6s !important;
+        -ms-transition: all 0.6s !important;
+        -o-transition: all 0.6s !important;
+        transition: all 0.6s !important;
+    }
+    .lleo_simplifiedZoomed #lleo_simplifiedDialog {
+        -webkit-transform: scale(1.1,1.1) !important;
+        -moz-transform: scale(1.1,1.1) !important;
+        -ms-transform: scale(1.1,1.1) !important;
+        -o-transform: scale(1.1,1.1) !important;
+        transform: scale(1.1,1.1) !important;
+        -webkit-transition: all 0.2s !important;
+        -moz-transition: all 0.2s !important;
+        -ms-transition: all 0.2s !important;
+        -o-transition: all 0.2s !important;
+        transition: all 0.2s !important;
+    }
+
+#lleo_simplifiedLayer,
+#lleo_simplifiedFade {
+    position: fixed !important;
+    left: 0 !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    right: 0 !important;
+}
+
+#lleo_simplifiedLayer {
+    z-index: 999999990 !important;
+}
+#lleo_simplifiedFade {
+    position: absolute !important;
+    background: #000 !important;
+    opacity: 0.5 !important;
+    z-index: 999999991 !important;
+}
+
+#lleo_simplifiedDialog h1,
+#lleo_simplifiedDialog h2,
+#lleo_simplifiedDialog h3,
+#lleo_simplifiedDialog h4,
+#lleo_simplifiedDialog h5 {
+    margin: 0 0 20px !important;
+    font-weight: bold !important;
+}
+#lleo_simplifiedDialog h1,
+#lleo_simplifiedDialog h1 * {
+    font-size: 26px !important;
+    font-weight: bold !important;
+}
+#lleo_simplifiedDialog h2,
+#lleo_simplifiedDialog h2 * {
+    font-size: 22px !important;
+    font-weight: bold !important;
+}
+#lleo_simplifiedDialog h3,
+#lleo_simplifiedDialog h3 * {
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+#lleo_simplifiedDialog h4,
+#lleo_simplifiedDialog h4 * {
+    font-size: 18px !important;
+    font-weight: bold !important;
+}
+#lleo_simplifiedDialog h5,
+#lleo_simplifiedDialog h5 * {
+    font-size: 16px !important;
+    font-weight: bold !important;
+}
+#lleo_simplifiedDialog img {
+    margin: 20px 0 !important;
+    display: block !important;
+    max-width: 100% !important;
+    height: auto !important;
+}
+#lleo_simplifiedDialog p {
+    margin: 0 0 22px 0 !important;
+}
+/*#lleo_simplifiedDialog a {
+    text-decoration: underline !important;
+}
+#lleo_simplifiedDialog a,
+#lleo_simplifiedDialog a * {
+    color: #002070 !important;
+}
+#lleo_simplifiedDialog a:hover,
+#lleo_simplifiedDialog a:hover * {
+    color: #000080 !important;
+}*/
+
+#lleo_simplifiedDialog tran {
+    background: transparent !important;
+    border-radius: 2px !important;
+    text-shadow: none !important;
+    cursor: pointer !important;
+}
+#lleo_simplifiedDialog tran:hover {
+    color: #fff !important;
+    background: #C77213 !important;
+    -webkit-transition: all 0.1s !important;
+    -moz-transition: all 0.1s !important;
+    -ms-transition: all 0.1s !important;
+    -o-transition: all 0.1s !important;
+    transition: all 0.1s !important;
+}
+
+#lleo_simplifiedPanel {
+    position: absolute !important;
+    top: 0 !important;
+    left: 30px !important;
+    right: 30px !important;
+    height: 40px !important;
+    background: #fafafa !important;
+    padding-top: 10px !important;
+    z-index: 999999995 !important;
+    box-shadow: 0 3px 18px 12px #fafafa !important;
+}
+    .lleo_emptyContent #lleo_simplifiedPanel {
+        background: none !important;
+        box-shadow: none !important;
+    }
+
+#lleo_simplifiedPanel a {
+    color: #002070 !important;
+    text-decoration: underline !important;
+}
+
+#lleo_simplifiedContent {
+    overflow: auto !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    padding: 80px 60px 30px !important;
+    z-index: 999999994 !important;
+}
+    .lleo_emptyContent #lleo_simplifiedContent {
+        background: #103c55 !important;
+        overflow: hidden !important;
+    }
+
+#lleo_fontSizeContainer {
+    float: right !important;
+    margin-right: 50px !important;
+    /*opacity: 0.7 !important;*/
+
+    -webkit-transition: all .2s !important;
+    -moz-transition: all .2s !important;
+    -ms-transition: all .2s !important;
+    transition: all .2s !important;
+}
+    .lleo_emptyContent #lleo_fontSizeContainer {
+        display: none !important;
+    }
+
+    #lleo_fontSizeContainer span {
+        color: #444 !important;
+        float: left !important;
+        font-size: 14px !important;
+        line-height: 25px !important;
+        margin-right: 10px !important;
+        opacity: 0 !important;
+
+        -webkit-transition: all .2s !important;
+        -moz-transition: all .2s !important;
+        -ms-transition: all .2s !important;
+        transition: all .2s !important;
+    }
+
+    #lleo_fontSizeContainer:hover span {
+        opacity: 1 !important;
+    }
+    #lleo_fontSizeContainer a {
+        color: #444 !important;
+        font-size: 14px !important;
+        line-height: 17px !important;
+        float: left !important;
+        margin-right: 3px !important;
+        text-decoration: none !important;
+        padding: 3px 6px !important;
+        border: solid 1px transparent !important;
+        border-radius: 3px !important;
+        opacity: 0.5 !important;
+
+        -webkit-transition: all .2s !important;
+        -moz-transition: all .2s !important;
+        -ms-transition: all .2s !important;
+        transition: all .2s !important;
+    }
+        #lleo_fontSizeContainer:hover a {
+            opacity: 1 !important;
+        }
+        #lleo_fontSizeContainer a:hover {
+            border: solid 1px #ccc !important;
+        }
+        #lleo_fontSizeContainer a.selected {
+            border: solid 1px transparent !important;
+            background: #cdf0ff !important;
+            color: #223643 !important;
+            opacity: 1 !important;
+        }
+
+#lleo_simplifiedContent.lleo_font_size1 * {
+    /* font-size inherited */
+}
+#lleo_simplifiedContent.lleo_font_size2 * {
+    font-size: 18px !important;
+    line-height: 30px !important;
+}
+#lleo_simplifiedContent.lleo_font_size3 * {
+    font-size: 21px !important;
+    line-height: 33px !important;
+}
+#lleo_simplifiedContent.lleo_font_size4 * {
+    font-size: 27px !important;
+    line-height: 38px !important;
+}
+
+
+#lleo_simplifiedPanel a#lleo_simplifiedCloseBtn {
+    font-size: 14px !important;
+    line-height: 17px !important;
+    color: #444 !important;
+    float: right !important;
+    margin-right: 5px !important;
+    text-decoration: none !important;
+    padding: 4px 6px !important;
+    background: #eee !important;
+    border-radius: 3px !important;
+}
+    #lleo_simplifiedPanel a#lleo_simplifiedCloseBtn:hover {
+        background: #ddd !important;
+        -webkit-transition: all 0.2s;
+        -moz-transition: all 0.2s;
+        -ms-transition: all 0.2s;
+        -o-transition: all 0.2s;
+        transition: all 0.2s;
+    }
+    .lleo_emptyContent #lleo_simplifiedPanel a#lleo_simplifiedCloseBtn {
+        color: #fff !important;
+        background: rgba(255,255,255,0.1)!important;
+    }
+        .lleo_emptyContent #lleo_simplifiedPanel a#lleo_simplifiedCloseBtn:hover {
+            background: rgba(255,255,255,0.3)!important;
+        }
+
+#lleo_simplifiedPanel a#lleo_simplifiedBrand {
+    color: #eee !important;
+    font: bold 24px Arial, Helvetica !important;
+    margin-left: 30px !important;
+    text-decoration: none !important;
+    letter-spacing: -2px !important;
+}
+    #lleo_simplifiedPanel a#lleo_simplifiedBrand sup {
+        color: #ddd !important;
+        font-size: 11px !important;
+        top: -8px !important;
+        letter-spacing: normal !important;
+        position: relative !important;
+    }
+
+#lleo_simplifiedWordList {
+    width: 50% !important;
+    left: 50% !important;
+    bottom: 0 !important;
+    top: 0 !important;
+    position: absolute !important;
+    box-sizing: border-box;
+    overflow: auto !important;
+    z-index: 999999992 !important;
+}
+#lleo_simplifiedWordList a {
+    color: #fff !important;
+    font-weight: bold !important;
+    display: block !important;
+    margin: 5px 0 0 -100px !important;
+    text-decoration: none !important;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5) !important;
+    opacity: 0 !important;
+}
+    #lleo_simplifiedWordList a:hover {
+        text-shadow: 1px 1px 4px rgba(0,0,0,0.95) !important;
+    }
+    #lleo_simplifiedWordList a.lleo_show {
+        opacity: 1 !important;
+        margin-left: 0 !important;
+        -webkit-transition: all 0.4s;
+        -moz-transition: all 0.4s;
+        -ms-transition: all 0.4s;
+        -o-transition: all 0.4s;
+        transition: all 0.4s;
+    }
+
+#lleo_simplifiedFont {
+    float: right !important;
+    margin: 3px 20px 0 0 !important;
+    font: normal 14px Arial, Helvetica !important;
+    background: #fff !important;
+}
+
+#lleo_simplifiedDialog #lleo_emptyBackgroundImage {
+    position: absolute !important;
+    left: 0 !important;
+    bottom: -20px !important;
+    width: auto !important;
+    height: auto !important;
+    z-index: -1 !important;
+}
+
+#lleo_simplifiedEmpty {
+    text-align: center !important;
+    margin-top: 50px !important;
+}
+    #lleo_simplifiedEmpty * {
+        color: #fff !important;
+        text-align: center !important;
+        text-shadow: 1px 1px 0 rgba(0,0,0,0.4) !important;
+    }
+
+.lleo_scrollbar::-webkit-scrollbar-track {
+    border: none !important;
+}
+.lleo_scrollbar::-webkit-scrollbar {
+    width: 8px !important;
+    height: 8px !important;
+}
+.lleo_scrollbar::-webkit-scrollbar:hover {
+    background-color: rgba(0,0,0,0.1) !important;
+}
+    .lleo_scrollbar.lleo_scrollbarLight::-webkit-scrollbar:hover {
+        background-color: rgba(255,255,255,0.1) !important;
+    }
+.lleo_scrollbar::-webkit-scrollbar-thumb {
+    border: none !important;
+    background-color: rgba(0,0,0,0.2) !important;
+    -webkit-box-shadow: inset 1px 1px 0 rgba(0,0,0,0.10),inset 0 -1px 0 rgba(0,0,0,0.07) !important;
+}
+    .lleo_scrollbar.lleo_scrollbarLight::-webkit-scrollbar-thumb {
+        background-color: rgba(255,255,255,0.4) !important;
+        -webkit-box-shadow: inset 1px 1px 0 rgba(255,255,255,0.2),inset 0 -1px 0 rgba(255,255,255,0.2) !important;
+    }
+.lleo_scrollbar::-webkit-scrollbar-button {
+    width: 0 !important;
+    height: 0 !important;
+    display: none !important;
+}
+.lleo_scrollbar::-webkit-scrollbar-corner {
+    background-color: transparent !important;
+}

@@ -1,0 +1,44 @@
+<div class="{soundUrl?lleo_has_sound:} {hasPic?lleo_has_pic:} {context?lleo_has_context:}">
+    <div id="lleo_contextContainer">
+        <!--<div id="lleo_gBrand" class="hidden">powered by</div>-->
+        <!--<div id="lleo_rusFlag" title="{translateContextHint}"><div></div></div>-->
+        <div id="lleo_context">{context}<a href="javascript:void 0" id="lleo_translateContextLink">{translateContextHint}</a></div>
+    </div>
+	<div id="lleo_translationsContainer1">
+		<a href="javascript:void 0" id="lleo_optionsBtn" title="{optionsBtnHint}"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABZ0RVh0Q3JlYXRpb24gVGltZQAxMC8xMS8xMqC++UYAAAAYdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3Jrc0+zH04AAADCSURBVCiRjdG9TUMxFMXxX54oaBBZgZomkt3nbQAjZBPYBLEBHeVjgFuQCcgISUdnitjIegkflixL9/x9zz32opRivnLOKzziDpuIeG7axQ/whCX2eO/14aQ9DxWGMSK2vXjigPt6vvVwznmD3TmHl9a9jtfgJ0yLPnTOeYlX3OKqlj9w05p9X6jwhBU+cTlz3mMczsAqvKtQG3OMiG0L3cMcn3KMiMM84JBzXv8X5vgPvfWvMCilSCldp5TWpRR/7S+50l6wfQduKAAAAABJRU5ErkJggg==" width="7" height="7"/></a>
+		<div id="lleo_translationsContainer2">
+			<div id="lleo_picOuter">
+				<table>
+					<tr>
+						<td>
+							<div>
+								<img id="lleo_pic" src="{picUrl}" width="30"/>
+							</div>	
+						</td>
+					</tr>
+				</table>
+				<img id="lleo_picBig" src="{picUrl}"/>
+			</div>
+			<div id="lleo_inner">			
+				<div id="lleo_sound" title="{soundHint}">
+					<audio id="lleo_player" type="audio/mpeg" src="{soundUrl}" preload="none"></audio>
+				</div>
+				<div id="lleo_word">
+					<a id="lleo_text" href="javascript:void 0" target="_blank" class="{inDict?lleo_known:}">{originalText}</a>&nbsp;<span class="{inDict?:lleo_no_trans}">&mdash; {translatedText}</span>
+					<a id="lleo_baseForm" href="#" class="infinitive {baseForm?:hidden}">{baseForm}</a>
+				</div>
+				<div id="lleo_transcription">[{transcription}]</div>
+				<div class="lleo_separator"></div>
+				<div id="lleo_trans">{transItems}</div>
+				<div class="lleo_clearfix">.</div>
+			</div>
+			<form id="lleo_setTransForm">
+				<input type="text" id="lleo_transField" maxlength="255" value="" placeholder="{addTranHint}" class="lleo-custom-translation"/>
+			</form>
+            <div id="lleo_icons" class="{showDicts?:hidden}">
+        					{seeAlsoHint}:
+        					{dictionariesLinksHTML}
+        				</div>
+		</div>
+	</div>
+</div>

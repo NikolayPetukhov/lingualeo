@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+	<title>LinguaLeo</title>
+    <meta charset="UTF-8" />
+    <link href="lingualeo/css/font-open-sans.css" rel="stylesheet" type="text/css"/>
+    <link href="lingualeo/css/popup.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript" src="kango-ui/kango_api.js"></script>
+    <script type="text/javascript" src="lingualeo/js/lib/jquery.min.js"></script>
+    <script type="text/javascript" src="lingualeo/js/config.js"></script>
+    <script type="text/javascript" src="lingualeo/js/helper_string.js"></script>
+    <script type="text/javascript" src="lingualeo/js/helpers.js"></script>
+    <script type="text/javascript" src="lingualeo/js/popup.js"></script>
+</head>
+<body>
+    <div id="container" class="container">
+        <div class="panel panel-toolbar">
+            <button class="btn btn-toolbar" id="btnEnjoyContent"><i class='icon icon-enjoy'></i><span data-i18n="buttonEnjoyContent"></span></button>
+            <img id="imgAvatar" class="avatar" width="55" data-i18n="buttonProfile" data-i18n-attr="title" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+            <button class="btn btn-toolbar btn-animated align-right" id="btnLogin"><i class='icon icon-signin'></i><span data-i18n="buttonLogin"></span></button>
+            <button class="btn btn-toolbar btn-toolbar-lb align-right" id="btnOptions"><i class='icon icon-options'></i><span data-i18n="buttonOptons"></span></button>
+        </div>
+        <div class="panel panel-translation">
+            <div id="loader" class="loader">
+            	<div class="lleo_line"></div>
+                <div class="lleo_break lleo_dot1"></div>
+                <div class="lleo_break lleo_dot2"></div>
+                <div class="lleo_break lleo_dot3"></div>
+            </div>
+            <input type="text" id="inptOriginalText" class="text-input" value="" maxlength="255"  data-i18n="placeholderTextToTranslate" data-i18n-attr="placeholder"/>
+            <div id="btnClearInput" class="icon-clear-input" data-i18n="clearInputHint" data-i18n-attr="title"></div>
+            <div id="translationsContainer"><!--translations & history--></div>
+        </div>
+    </div>
+</body>
+</html>

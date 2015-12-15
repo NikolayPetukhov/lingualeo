@@ -1,0 +1,114 @@
+#lleo_enjoyContentControls,
+#lleo_enjoyContentControls * {
+    color: #000 !important;
+    font: normal 13px Arial, Helvetica !important;
+    line-height: 15px !important;
+    margin: 0 !important;
+	padding: 0 !important;
+	background: none !important;
+	border: none 0 !important;
+	position: static !important;
+	vertical-align: baseline !important;
+	overflow: visible !important;
+	width: auto !important;
+	height: auto !important;
+    max-width: none !important;
+    max-height: none !important;
+	float: none !important;
+	visibility: visible !important;
+	text-align: left !important;
+    text-transform: none !important;
+	border-collapse: separate !important;
+	border-spacing: 2px !important;
+    box-sizing: content-box !important;
+    box-shadow: none !important;
+    opacity: 1 !important;
+    text-shadow: none !important;
+}
+
+#lleo_enjoyContentControls {
+    background: #f7c875 !important;
+    position: fixed !important;
+    right: 0 !important;
+    top: -40px !important;
+    width: 39px !important;
+    height: 34px !important;
+    opacity: 0.85 !important;
+    border-top-left-radius: 4px !important;
+    border-bottom-left-radius: 4px !important;
+    box-shadow: 2px 4px 12px rgba(0,0,0,0.3) !important;
+    z-index: 9999999999999 !important;
+    overflow: hidden !important;
+}
+
+    #lleo_enjoyContentControls.lleo_show {
+        top: 130px !important;
+
+        -webkit-transition: top 0.8s ease-out !important;
+        -moz-transition: top 0.8s ease-out !important;
+        -ms-transition: top 0.8s ease-out !important;
+        -o-transition: top 0.8s ease-out !important;
+        transition: top 0.8s ease-out !important;
+    }
+
+    #lleo_enjoyContentControls:hover {
+        opacity: 1 !important;
+        /*width: 220px !important;*/
+        
+        -webkit-transition: opacity 0.4s linear, width 0.4s ease-out 1.2s  !important;
+        -moz-transition: opacity 0.4s linear, width 0.4s ease-out 1.2s  !important;
+        -ms-transition: opacity 0.4s linear, width 0.4s ease-out 1.2s  !important;
+        -o-transition: opacity 0.4s linear, width 0.4s ease-out 1.2s  !important;
+        transition: opacity 0.4s linear, width 0.4s linear 1.2s  !important;
+    }
+
+    #lleo_enjoyContentControls.lleo_hiding {
+        opacity: 0 !important;
+        -webkit-transition: opacity 3s linear !important;
+        -moz-transition: opacity 3s linear !important;
+        -ms-transition: opacity 3s linear !important;
+        transition: opacity 3s linear !important;
+    }
+
+    #lleo_enjoyContentControls #lleo_enjoyContentPanel {
+        white-space: nowrap !important;
+        margin: 9px 44px 0 10px !important;
+        opacity: 0 !important;
+
+        -webkit-transition: all 0.4s linear 1.2s !important;
+        -moz-transition: all 0.4s linear 1.2s !important;
+        -ms-transition: all 0.4s linear 1.2s !important;
+        -o-transition: all 0.4s linear 1.2s !important;
+        transition: all 0.4s linear 1.2s !important;
+    }
+        #lleo_enjoyContentControls:hover #lleo_enjoyContentPanel {
+            opacity: 1 !important;
+        }
+
+    #lleo_enjoyContentControls #lleo_enjoyContentPanel input {
+        margin-right: 5px !important;
+    }
+
+
+#lleo_enjoyContentButton {
+    background: #fff center center no-repeat !important;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAk6AAAJOgHwZJJKAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAADBQTFRF////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL92gewAAAA90Uk5TAA0PEhUcLS9CxszS29z1M86yOAAAAFVJREFUCFtjYIADduMCMGZgvmsAxggGUFgELMXAwDq7AaI8MnULmGY9pTYRzIj5vzIALHD+/1Gw4pj/fwJA2kECYHNkgAJgK/yAAmDA8QasBQgcIRQA12YesqxFXfcAAAAASUVORK5CYII8850aa0afe766ff5b5bb3697b8de32f7) !important;
+    background-size: 16px 16px !important;
+    width: 36px !important;
+    height: 34px !important;
+    cursor: pointer !important;
+    position: absolute !important;
+    right: 0 !important;
+    top: 0 !important;
+}
+
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+
+    #lleo_enjoyContentButton {
+        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAABJ0AAASdAHeZh94AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAD9QTFRF////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxQXeHgAAABR0Uk5TAAQFDRkcNz1PcHSIrK6ws7/b8P5ZkzdFAAAAo0lEQVQ4y62RzQ6DMAyDTSkjpfy04Pd/1h12WAtpKk3zzfosJXGAP2l0AODGloc7BJDDtTwgTInS9kAik+W7gd6I7pLFWRK9cuZXgcyT0VjguliJwG1AYPZNvjsAC2OLXzOAYa07LPfj+YLbGJqcPOfd5OTV4WSAVlTNn1Xf+ONZD357t8KrgMbLERovlxSFV2dGhVfy2ebAlG3+SVgc8FHws96B8RE8rjk+bwAAAABJRU5ErkJggga9a50a0b337b82ef5c0bda0f6d6960d3) !important;
+    }
+
+}

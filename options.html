@@ -1,0 +1,140 @@
+<!doctype html>
+<html>
+<head>
+    <title>LinguaLeo Translator Xtension</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8"/>
+    <meta name="author" content="Lingualeo, support@lingualeo.com"/>
+    <link href="lingualeo/css/font-open-sans.css" rel="stylesheet" type="text/css"/>
+    <link href="lingualeo/css/options.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+
+<div id="container" class="container">
+
+    <div class="block-container">
+        <div class="block block-1"></div>
+        <div class="block block-2"></div>
+        <div class="block block-3"></div>
+        <div class="block block-4"></div>
+        <div class="block block-5"></div>
+        <div class="block block-6"></div>
+        <div class="block block-7"></div>
+        <div class="block block-8"></div>
+    </div>
+
+    <div id="demoContainer" class="demo-container">
+        <div class="demo-page" data-page="extensionPopup">
+
+            <div id="demoGroupPaper" class="group-paper">
+                <div class="group-paper-inner">
+                    <div class="thing paper">
+                        <div class="text">
+                            One <span class="word">morning</span> I shot an elephant in my pajamas. How he got in my pajamas, I don't know.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="group-popup">
+                <div class="thing popup">
+                    <div class="thing arrow"></div>
+                    <div class="thing context">
+                        <div class="thing text text-original">One morning I shot an elephant<br/>in my pajamas.</div>
+                        <div class="thing text text-translated" data-i18n="demoContextText"></div>
+                    </div>
+                    <div class="whole thing content">
+                        <div class="thing sound-wave wave-0">
+                            <div class="thing wave-part"></div>
+                            <div class="thing wave-part part-inner"></div>
+                        </div>
+                        <div class="thing sound-wave wave-1">
+                            <div class="thing wave-part"></div>
+                            <div class="thing wave-part part-inner"></div>
+                        </div>
+                        <div class="thing sound-wave wave-2">
+                            <div class="thing wave-part"></div>
+                            <div class="thing wave-part part-inner"></div>
+                        </div>
+                        <div class="thing sound">
+                            <div class="thing sound-2"></div>
+                        </div>
+                        <!--<div class="thing sound sound-effect">
+                            <div class="thing sound-2"></div>
+                        </div>-->
+                        <div class="thing word">morning</div>
+                        <div class="thing image">
+                            <img src="lingualeo/images/morning-pic.png" width="200"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="group-notification">
+                <div class="whole thing notification">
+                    <img src="lingualeo/images/morning-pic.png" width="48"/>
+                    <div class="title" data-i18n="demoDictionaryUpdated"></div>
+                    <div class="text">morning — <span data-i18n="demoMorning"></span></div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="content-container" id="contentContainer">
+        <div class="title-container" id="header">
+            <div class="logo"></div>
+            <div class="title">LinguaLeo</div>
+        </div>
+        <div id="content" class="content">
+            <!--content-->
+        </div>
+    </div>
+
+    <div id="registerContainer" class="register-container">
+        <a href="javascript:void 0" id="btnCreateAccount" class="btn-create-account" data-i18n="loginDialogSignUp"></a>
+        <a href="javascript:void 0" id="btnLogin" class="btn-create-account" data-i18n="loginDialogEnter"></a>
+        <div class="text" data-i18n="releaseNotesCreateAccountCall"></div>
+    </div>
+
+    <div id="releaseNotesButton" class="menu-container">
+        <div class="menu-button-shadow"></div>
+        <div class="menu-button"></div>
+        <span class="menu-caption caption-1" data-i18n="optionsReleaseNotes"></span>
+        <span class="menu-caption caption-2" id="extVersion"></span>
+    </div>
+
+    <div id="releaseNotes" class="release-notes-container">
+        <div id="releaseNotesBlocksContainer" class="blocks-container"></div>
+        <div class="background"></div>
+        <div id="releaseNotesContent" class="release-notes-content">
+            <div class="title"><div class="icon"></div><span data-i18n="releaseNotesTitle"></span></div>
+            <p data-i18n="releaseNotesMainText"></p>
+            <p data-i18n="releaseNotesSubText"></p>
+            <p data-i18n="releaseNotesEnjoy"></p>
+            <a href="javascript:void 0" id="btnOptions" class="btn" data-i18n="releaseNotesGoToOptions"></a>
+            <span class="separator-text" data-i18n="releaseNotesOr"></span>
+            <a href="javascript:void 0" id="btnClosePage" class="btn btn-close" data-i18n="releaseNotesClose"></a>
+        </div>
+    </div>
+
+    <div class="copyright">
+        <div class="sign">©</div>
+        <a href="http://lingualeo.com" target="_blank">
+            © 2009—2015, LinguaLeo.
+            <span data-i18n="optionsTrademark"></span>
+        </a>
+        <!--<div class="shadow"></div>-->
+    </div>
+</div>
+
+
+<script src="kango-ui/kango_api.js"></script>
+<script src="lingualeo/js/lib/jquery.min.js"></script>
+<script src="lingualeo/js/helpers.js"></script>
+<script src="lingualeo/js/helper_string.js"></script>
+<script src="lingualeo/js/default_options.js"></script>
+<script src="lingualeo/js/options-page/options.js"></script>
+
+</body>
+</html>

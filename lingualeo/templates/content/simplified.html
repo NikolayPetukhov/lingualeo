@@ -1,0 +1,20 @@
+<div id="lleo_simplifiedLayer">
+    <div id="lleo_simplifiedFade"></div>
+    <div id="lleo_simplifiedWordList" class="lleo_scrollbar lleo_scrollbarLight" style="padding-left: {listPaddingLeft}"></div>
+    <div id="lleo_simplifiedDialog" style="width: {width}; margin-left: {marginLeft}" {isEmpty?class="lleo_emptyContent":}>
+        <div id="lleo_simplifiedPanel">
+            <a href="//lingualeo.com?utm_source=ll_plugin&utm_medium=plugin&utm_campaign=enjoy-content"
+               target="_blank" id="lleo_simplifiedBrand">LinguaLeo <sup>Enjoy content!</sup></a>
+            <a href="javascript:void 0" id="lleo_simplifiedCloseBtn" title="{i18n:dlgCloseHint} (Esc)">{i18n:buttonClose}</a>
+
+            <div id="lleo_fontSizeContainer">
+                <span>{i18n:fontSize}:</span>
+                <a href="javascript:void 0" data-value="size1">{i18n:fontSize_normal}</a>
+                <a href="javascript:void 0" data-value="size2">{i18n:fontSize_big}</a>
+                <a href="javascript:void 0" data-value="size3">{i18n:fontSize_huge}</a>
+                <a href="javascript:void 0" data-value="size4">{i18n:fontSize_insane}</a>
+            </div>
+        </div>
+        <div id="lleo_simplifiedContent" class="lleo_scrollbar">{content}</div>
+    </div>
+</div>

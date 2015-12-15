@@ -1,0 +1,68 @@
+{
+    "framework_package_id": "dev", 
+    "content_scripts": [
+        "lingualeo/js/config.js", 
+        "lingualeo/js/helper_string.js", 
+        "lingualeo/js/helpers.js", 
+        "lingualeo/js/lib/readability.js", 
+        "lingualeo/js/content/wizardDialog.js", 
+        "lingualeo/js/content/wizardManager.js", 
+        "lingualeo/js/content/enjoyContentControls.js", 
+        "lingualeo/js/content/simplified.js", 
+        "lingualeo/js/content/dialogs.js", 
+        "lingualeo/js/content/lyrics.js", 
+        "lingualeo/js/content/content.js"
+    ], 
+    "framework_version": "1.7.1 067e3115fc11", 
+    "desktop-notification": {}, 
+    "description": "", 
+    "short_name": "LinguaLeo English Translator", 
+    "creator": "LinguaLeo", 
+    "name": "LinguaLeo English Translator", 
+    "author": "Lingualeo, support@lingualeo.com", 
+    "modules": [
+        "lingualeo/js/contextmenu_module"
+    ], 
+    "package_id": "kango-dd7b8d8d-c0b5-4122-9652-4fcb1e788cd8", 
+    "background_scripts": [
+        "lingualeo/js/lib/jquery.min.js", 
+        "lingualeo/js/lib/guessLanguage/_languageData.js", 
+        "lingualeo/js/lib/guessLanguage/guessLanguage.js", 
+        "lingualeo/js/default_options.js", 
+        "lingualeo/js/helper_string.js", 
+        "lingualeo/js/helpers.js", 
+        "lingualeo/js/config.js", 
+        "lingualeo/js/server.js", 
+        "lingualeo/js/ext.js", 
+        "lingualeo/js/localDictionary.js", 
+        "lingualeo/js/history.js", 
+        "lingualeo/js/NodeWordsWrapper.js", 
+        "lingualeo/js/contextmenu.js", 
+        "lingualeo/js/lingualeo.js"
+    ], 
+    "homepage_url": "http://lingualeo.com/", 
+    "version": "2.0.3.1", 
+    "options_page": "options.html", 
+    "default_locale": "en", 
+    "settings": {
+        "port": 1002
+    }, 
+    "id": "{DD7B8D8D-C0B5-4122-9652-4FCB1E788CD8}", 
+    "locales": [
+        "en", 
+        "pt", 
+        "pt_br", 
+        "ru", 
+        "tr"
+    ], 
+    "browser_button": {
+        "caption": "LinguaLeo", 
+        "tooltipText": "LinguaLeo", 
+        "popup": {
+            "url": "popup.html", 
+            "width": 500, 
+            "height": 120
+        }, 
+        "icon": "lingualeo/images/i19bw.png"
+    }
+}

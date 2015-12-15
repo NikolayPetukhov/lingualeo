@@ -1,0 +1,79 @@
+<form id="optionsForm" action="" method="post">
+    <div class="controls-group">
+        <div class="control control-checkbox" id="controlUseDblClick">
+            {custom-checkbox}
+            {i18n:optionsUseDblClick}
+        </div>
+        <div class="control control-checkbox sub-control" id="controlUseDblClickWithCtrl">
+            {custom-checkbox}
+            <span id="ctrlKeyText">{i18n:optionsDblClickWithCtrl}</span>
+            <span id="cmdKeyText">{i18n:optionsDblClickWithCommand}</span>
+            <!--<div class="keyboard-button ctrl"><div class="caption" id="commandKeyCaption">ctrl</div></div>-->
+        </div>
+        <div class="control control-checkbox sub-control" id="controlUseDblClickWithAlt">
+            {custom-checkbox}
+            {i18n:optionsDblClickWithAlt}
+            <!--<div class="keyboard-button alt"><div class="caption">alt</div></div>-->
+        </div>
+    </div>
+
+
+    <div class="controls-group">
+        <div class="control control-checkbox" id="controlShowPicture"  data-page="extensionPopup" data-scene-checked="scene-show-picture">
+            {custom-checkbox}
+            {i18n:optionsShowPicture}
+        </div>
+    </div>
+
+
+    <div class="controls-group">
+        <div class="control control-checkbox" id="controlShowContext" data-page="extensionPopup" data-scene-unchecked="scene-no-context">
+            {custom-checkbox}
+            {i18n:optionsShowContext}
+        </div>
+        <div class="control control-checkbox sub-control" id="controlAutoTranslateContext" data-page="extensionPopup" data-scene-checked="scene-auto-translate-context">
+            {custom-checkbox}
+            {i18n:optionsAutoTranslateContext}
+        </div>
+    </div>
+
+
+    <!-- div class="row">
+        <input type="checkbox" data-option="yes" id="cbShowDictIcons" name="showDictIcons"/>
+        <label for="cbShowDictIcons" i18n-innerHTML="optionsShowDictIcons"></label>
+    </div -->
+
+
+    <div class="controls-group">
+        <div class="control control-checkbox" id="controlAutoplaySound"  data-page="extensionPopup" data-scene-checked="scene-auto-play">
+            {custom-checkbox}
+            {i18n:optionsAutoplaySound}
+        </div>
+    </div>
+
+    <div class="controls-group">
+        <div class="control control-checkbox" id="controlShowUntrainedWordsCount">
+            {custom-checkbox}
+            {i18n:optionsShowUntrainedWordsCount}
+        </div>
+    </div>
+
+    <div class="controls-group">
+        <div class="control control-checkbox" id="controlShowBrowserPopups"  data-page="extensionPopup" data-scene-checked="scene-show-notifications">
+            {custom-checkbox}
+            {i18n:optionsShowBrowserPopups}
+        </div>
+        <!--<div class="control control-checkbox sub-control" id="controlShowSiteNotifications">
+            {custom-checkbox}
+            {i18n:optionsShowSiteNotifications}
+        </div>-->
+    </div>
+
+    <div class="controls-group">
+        <div class="control control-checkbox" id="controlShowHints">
+            {custom-checkbox}
+            {i18n:optionsShowHints}
+        </div>
+    </div>
+
+</form>
